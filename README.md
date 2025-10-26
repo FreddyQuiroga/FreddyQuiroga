@@ -80,7 +80,7 @@ My goal is to work **remotely with international companies**, contributing to in
 ### 🪄 Typing Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;AI+and+Automation+Enthusiast;Building+Modern+Digital+Solutions;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Building+Modern+Digital+Solutions;Always+Learning+New+Things!" />
 </p>
 
 ---
